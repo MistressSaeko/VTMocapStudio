@@ -1,0 +1,16 @@
+{"version":1,"strings":[
+{"hash":233592786,"name":"tmodelloadform.caption","sourcebytes":[77,111,100,101,108,32,66,114,111,119,115,101,114],"value":"Model Browser"},
+{"hash":143123234,"name":"tmodelloadform.listview1.columns[0].caption","sourcebytes":[67,104,97,114,97,99,116,101,114],"value":"Character"},
+{"hash":76328802,"name":"tmodelloadform.listview1.columns[1].caption","sourcebytes":[65,117,116,104,111,114],"value":"Author"},
+{"hash":214540302,"name":"tmodelloadform.listview1.columns[2].caption","sourcebytes":[86,101,114,115,105,111,110],"value":"Version"},
+{"hash":174434276,"name":"tmodelloadform.listview1.columns[3].caption","sourcebytes":[67,111,110,116,97,99,116],"value":"Contact"},
+{"hash":214498341,"name":"tmodelloadform.listview1.columns[4].caption","sourcebytes":[82,101,102,101,114,101,110,99,101],"value":"Reference"},
+{"hash":6068181,"name":"tmodelloadform.listview1.columns[5].caption","sourcebytes":[85,115,97,103,101],"value":"Usage"},
+{"hash":6472005,"name":"tmodelloadform.listview1.columns[6].caption","sourcebytes":[86,105,111,108,101,110,99,101],"value":"Violence"},
+{"hash":94174076,"name":"tmodelloadform.listview1.columns[7].caption","sourcebytes":[83,101,120,117,97,108],"value":"Sexual"},
+{"hash":63715644,"name":"tmodelloadform.listview1.columns[8].caption","sourcebytes":[67,111,109,109,101,114,99,105,97,108],"value":"Commercial"},
+{"hash":49923525,"name":"tmodelloadform.listview1.columns[9].caption","sourcebytes":[76,105,99,101,110,115,101],"value":"License"},
+{"hash":23148,"name":"tmodelloadform.listview1.columns[10].caption","sourcebytes":[85,82,76],"value":"URL"},
+{"hash":341364,"name":"tmodelloadform.button1.caption","sourcebytes":[76,111,97,100],"value":"Load"},
+{"hash":77089212,"name":"tmodelloadform.button2.caption","sourcebytes":[67,97,110,99,101,108],"value":"Cancel"}
+]}

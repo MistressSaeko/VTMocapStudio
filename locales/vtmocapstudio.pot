@@ -1,0 +1,119 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.button1.caption
+msgid "Load"
+msgstr ""
+
+#: tform1.button2.caption
+msgid "Cancel"
+msgstr ""
+
+#: tform1.caption
+msgid "Model Browser"
+msgstr ""
+
+#: tform1.listview1.columns[0].caption
+msgid "Character"
+msgstr ""
+
+#: tform1.listview1.columns[10].caption
+msgid "URL"
+msgstr ""
+
+#: tform1.listview1.columns[1].caption
+msgid "Author"
+msgstr ""
+
+#: tform1.listview1.columns[2].caption
+msgid "Version"
+msgstr ""
+
+#: tform1.listview1.columns[3].caption
+msgid "Contact"
+msgstr ""
+
+#: tform1.listview1.columns[4].caption
+msgid "Reference"
+msgstr ""
+
+#: tform1.listview1.columns[5].caption
+msgid "Usage"
+msgstr ""
+
+#: tform1.listview1.columns[6].caption
+msgid "Violence"
+msgstr ""
+
+#: tform1.listview1.columns[7].caption
+msgid "Sexual"
+msgstr ""
+
+#: tform1.listview1.columns[8].caption
+msgid "Commercial"
+msgstr ""
+
+#: tform1.listview1.columns[9].caption
+msgid "License"
+msgstr ""
+
+#: tmainform.appconfigbtn.caption
+msgid "AppConfigBtn"
+msgstr ""
+
+#: tmainform.appconfigbtn.hint
+msgid "Open program settings."
+msgstr ""
+
+#: tmainform.camconfigbtn.caption
+msgid "CamConfigBtn"
+msgstr ""
+
+#: tmainform.camconfigbtn.hint
+msgid "Select a camera for facial capture."
+msgstr ""
+
+#: tmainform.caption
+msgid "VTMocapStudio"
+msgstr ""
+
+#: tmainform.div1.caption
+msgid "Div1"
+msgstr ""
+
+#: tmainform.div2.caption
+msgid "Div2"
+msgstr ""
+
+#: tmainform.div3.caption
+msgid "Div3"
+msgstr ""
+
+#: tmainform.loadmodelbtn.caption
+msgid "LoadModelBtn"
+msgstr ""
+
+#: tmainform.loadmodelbtn.hint
+msgid "Load a VRM model into the scene."
+msgstr ""
+
+#: tmainform.modelresetbtn.caption
+msgid "ModelResetBtn"
+msgstr ""
+
+#: tmainform.modelresetbtn.hint
+msgid "Reset the model's position."
+msgstr ""
+
+#: tmainform.statusbar1.panels[0].text
+msgid "Placeholder"
+msgstr ""
+
+#: tmainform.statusbar1.panels[1].text
+msgid "Camera Type, Resolution and FPS"
+msgstr ""
+
+#: tmainform.toolbar1.caption
+msgid "ToolBar1"
+msgstr ""
+

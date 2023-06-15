@@ -1,0 +1,117 @@
+object ModelLoadForm: TModelLoadForm
+  Left = 203
+  Height = 600
+  Top = 67
+  Width = 816
+  BorderStyle = bsDialog
+  Caption = 'Model Browser'
+  ClientHeight = 600
+  ClientWidth = 816
+  LCLVersion = '2.2.4.0'
+  object ListView1: TListView
+    Left = 255
+    Height = 600
+    Top = 0
+    Width = 272
+    Align = alLeft
+    Columns = <    
+      item
+        Caption = 'Character'
+        Width = 65
+      end    
+      item
+        Caption = 'Author'
+      end    
+      item
+        Caption = 'Version'
+      end    
+      item
+        Caption = 'Contact'
+      end    
+      item
+        Caption = 'Reference'
+      end    
+      item
+        Caption = 'Usage'
+      end    
+      item
+        Caption = 'Violence'
+      end    
+      item
+        Caption = 'Sexual'
+      end    
+      item
+        Caption = 'Commercial'
+      end    
+      item
+        Caption = 'License'
+      end    
+      item
+        Caption = 'URL'
+      end>
+    TabOrder = 0
+    ViewStyle = vsReport
+  end
+  object ListView2: TListView
+    Left = 0
+    Height = 600
+    Top = 0
+    Width = 250
+    Align = alLeft
+    Columns = <>
+    TabOrder = 1
+    ViewStyle = vsIcon
+  end
+  object OpenGLControl1: TOpenGLControl
+    AnchorSideLeft.Control = Splitter2
+    AnchorSideLeft.Side = asrBottom
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Button1
+    Left = 532
+    Height = 576
+    Top = 0
+    Width = 284
+    Anchors = [akTop, akLeft, akRight, akBottom]
+  end
+  object Splitter1: TSplitter
+    Left = 250
+    Height = 600
+    Top = 0
+    Width = 5
+  end
+  object Splitter2: TSplitter
+    Left = 527
+    Height = 600
+    Top = 0
+    Width = 5
+  end
+  object Button1: TButton
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 674
+    Height = 24
+    Top = 576
+    Width = 142
+    Anchors = [akTop, akLeft, akRight]
+    Caption = 'Load'
+    OnClick = Button1Click
+    TabOrder = 5
+  end
+  object Button2: TButton
+    AnchorSideLeft.Control = Splitter2
+    AnchorSideLeft.Side = asrBottom
+    AnchorSideRight.Control = Button1
+    Left = 532
+    Height = 24
+    Top = 576
+    Width = 142
+    Anchors = [akTop, akLeft, akRight]
+    Caption = 'Cancel'
+    OnClick = Button2Click
+    TabOrder = 6
+  end
+end

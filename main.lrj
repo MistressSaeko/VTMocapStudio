@@ -1,0 +1,17 @@
+{"version":1,"strings":[
+{"hash":239067951,"name":"tmainform.caption","sourcebytes":[86,84,77,111,99,97,112,83,116,117,100,105,111],"value":"VTMocapStudio"},
+{"hash":106991073,"name":"tmainform.toolbar1.caption","sourcebytes":[84,111,111,108,66,97,114,49],"value":"ToolBar1"},
+{"hash":136933486,"name":"tmainform.loadmodelbtn.hint","sourcebytes":[76,111,97,100,32,97,32,86,82,77,32,109,111,100,101,108,32,105,110,116,111,32,116,104,101,32,115,99,101,110,101,46],"value":"Load a VRM model into the scene."},
+{"hash":10449134,"name":"tmainform.loadmodelbtn.caption","sourcebytes":[76,111,97,100,77,111,100,101,108,66,116,110],"value":"LoadModelBtn"},
+{"hash":61064382,"name":"tmainform.appconfigbtn.hint","sourcebytes":[79,112,101,110,32,112,114,111,103,114,97,109,32,115,101,116,116,105,110,103,115,46],"value":"Open program settings."},
+{"hash":4781006,"name":"tmainform.appconfigbtn.caption","sourcebytes":[65,112,112,67,111,110,102,105,103,66,116,110],"value":"AppConfigBtn"},
+{"hash":48969182,"name":"tmainform.camconfigbtn.hint","sourcebytes":[83,101,108,101,99,116,32,97,32,99,97,109,101,114,97,32,102,111,114,32,102,97,99,105,97,108,32,99,97,112,116,117,114,101,46],"value":"Select a camera for facial capture."},
+{"hash":5743566,"name":"tmainform.camconfigbtn.caption","sourcebytes":[67,97,109,67,111,110,102,105,103,66,116,110],"value":"CamConfigBtn"},
+{"hash":173673470,"name":"tmainform.modelresetbtn.hint","sourcebytes":[82,101,115,101,116,32,116,104,101,32,109,111,100,101,108,39,115,32,112,111,115,105,116,105,111,110,46],"value":"Reset the model's position."},
+{"hash":147212414,"name":"tmainform.modelresetbtn.caption","sourcebytes":[77,111,100,101,108,82,101,115,101,116,66,116,110],"value":"ModelResetBtn"},
+{"hash":307345,"name":"tmainform.div1.caption","sourcebytes":[68,105,118,49],"value":"Div1"},
+{"hash":307346,"name":"tmainform.div2.caption","sourcebytes":[68,105,118,50],"value":"Div2"},
+{"hash":307347,"name":"tmainform.div3.caption","sourcebytes":[68,105,118,51],"value":"Div3"},
+{"hash":197332306,"name":"tmainform.statusbar1.panels[0].text","sourcebytes":[80,108,97,99,101,104,111,108,100,101,114],"value":"Placeholder"},
+{"hash":52912275,"name":"tmainform.statusbar1.panels[1].text","sourcebytes":[67,97,109,101,114,97,32,84,121,112,101,44,32,82,101,115,111,108,117,116,105,111,110,32,97,110,100,32,70,80,83],"value":"Camera Type, Resolution and FPS"}
+]}
